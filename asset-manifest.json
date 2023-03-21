@@ -1,10 +1,13 @@
 {
   "files": {
-    "main.js": "/reac-for_beginners/static/js/main.6c5677f6.js",
+    "main.css": "/reac-for_beginners/static/css/main.6683479f.css",
+    "main.js": "/reac-for_beginners/static/js/main.f205dd27.js",
     "index.html": "/reac-for_beginners/index.html",
-    "main.6c5677f6.js.map": "/reac-for_beginners/static/js/main.6c5677f6.js.map"
+    "main.6683479f.css.map": "/reac-for_beginners/static/css/main.6683479f.css.map",
+    "main.f205dd27.js.map": "/reac-for_beginners/static/js/main.f205dd27.js.map"
   },
   "entrypoints": [
-    "static/js/main.6c5677f6.js"
+    "static/css/main.6683479f.css",
+    "static/js/main.f205dd27.js"
   ]
 }
